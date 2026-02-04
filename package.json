@@ -1,6 +1,6 @@
 {
   "name": "pingfusi",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "MCP server + CLI that puts a real human in your coding agent's loop. It publishes work mid-task, a reviewer pins what's wrong and returns a verdict, and the agent iterates until approved.",
   "main": "src/index.js",
   "scripts": {
